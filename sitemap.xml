@@ -1,412 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-        xmlns:xhtml="http://www.w3.org/1999/xhtml"
-        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
-        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1"
-        xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     
-    <!-- ==================== -->
-    <!-- PRIMARY PAGES       -->
-    <!-- ==================== -->
-    
-    <!-- Homepage - Highest Priority -->
+    <!-- Homepage -->
     <url>
-        <loc>https://www.techaffiliatepro.com/</loc>
+        <loc>https://ali-faki.github.io/affliate/</loc>
         <lastmod>2024-05-15</lastmod>
-        <changefreq>daily</changefreq>
+        <changefreq>weekly</changefreq>
         <priority>1.0</priority>
-        <xhtml:link rel="alternate" hreflang="en" href="https://www.techaffiliatepro.com/"/>
-        <xhtml:link rel="alternate" hreflang="en-US" href="https://www.techaffiliatepro.com/"/>
-        <xhtml:link rel="alternate" hreflang="x-default" href="https://www.techaffiliatepro.com/"/>
     </url>
     
-    <!-- AI Tools Section -->
+    <!-- Main Sections (anchor links on single page) -->
     <url>
-        <loc>https://www.techaffiliatepro.com/ai-tools</loc>
-        <lastmod>2024-05-14</lastmod>
+        <loc>https://ali-faki.github.io/affliate/#ai-tools</loc>
+        <lastmod>2024-05-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     
-    <!-- Web Hosting Section -->
     <url>
-        <loc>https://www.techaffiliatepro.com/hosting</loc>
-        <lastmod>2024-05-14</lastmod>
+        <loc>https://ali-faki.github.io/affliate/#hosting</loc>
+        <lastmod>2024-05-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     
-    <!-- Development Tools Section -->
     <url>
-        <loc>https://www.techaffiliatepro.com/development</loc>
-        <lastmod>2024-05-14</lastmod>
+        <loc>https://ali-faki.github.io/affliate/#development</loc>
+        <lastmod>2024-05-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.9</priority>
     </url>
     
-    <!-- Blog Page -->
     <url>
-        <loc>https://www.techaffiliatepro.com/blog</loc>
-        <lastmod>2024-05-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <!-- Newsletter/Deals Page -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/newsletter</loc>
-        <lastmod>2024-05-13</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <!-- ==================== -->
-    <!-- PRODUCT PAGES       -->
-    <!-- ==================== -->
-    
-    <!-- AI Products -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/products/jasper-ai</loc>
+        <loc>https://ali-faki.github.io/affliate/#blog</loc>
         <lastmod>2024-05-15</lastmod>
         <changefreq>weekly</changefreq>
         <priority>0.8</priority>
-        <image:image>
-            <image:loc>https://www.techaffiliatepro.com/images/products/jasper-ai.jpg</image:loc>
-            <image:title>Jasper AI - AI Content Creation Tool</image:title>
-            <image:caption>Jasper AI affiliate deal - AI-powered content creation platform</image:caption>
-        </image:image>
     </url>
     
     <url>
-        <loc>https://www.techaffiliatepro.com/products/surferseo</loc>
-        <lastmod>2024-05-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <image:image>
-            <image:loc>https://www.techaffiliatepro.com/images/products/surferseo.jpg</image:loc>
-            <image:title>SurferSEO - Content Optimization Platform</image:title>
-            <image:caption>SurferSEO affiliate deal - AI-driven SEO content optimization</image:caption>
-        </image:image>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/products/midjourney-api</loc>
-        <lastmod>2024-05-13</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <image:image>
-            <image:loc>https://www.techaffiliatepro.com/images/products/midjourney.jpg</image:loc>
-            <image:title>Midjourney API - Generative AI Images</image:title>
-            <image:caption>Midjourney API affiliate - AI image generation platform</image:caption>
-        </image:image>
-    </url>
-    
-    <!-- Hosting Products -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/products/cloudways</loc>
-        <lastmod>2024-05-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <image:image>
-            <image:loc>https://www.techaffiliatepro.com/images/products/cloudways.jpg</image:loc>
-            <image:title>Cloudways - Managed Cloud Hosting</image:title>
-            <image:caption>Cloudways affiliate deal - Managed cloud hosting platform</image:caption>
-        </image:image>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/products/hostinger</loc>
-        <lastmod>2024-05-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <image:image>
-            <image:loc>https://www.techaffiliatepro.com/images/products/hostinger.jpg</image:loc>
-            <image:title>Hostinger - Affordable Web Hosting</image:title>
-            <image:caption>Hostinger affiliate deal - Fast and affordable hosting</image:caption>
-        </image:image>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/products/namecheap</loc>
-        <lastmod>2024-05-13</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <image:image>
-            <image:loc>https://www.techaffiliatepro.com/images/products/namecheap.jpg</image:loc>
-            <image:title>Namecheap - Domains &amp; Hosting</image:title>
-            <image:caption>Namecheap affiliate deal - Domain registration and hosting</image:caption>
-        </image:image>
-    </url>
-    
-    <!-- Development Products -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/products/udemy-tech</loc>
-        <lastmod>2024-05-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/products/github-pro</loc>
-        <lastmod>2024-05-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/products/semrush</loc>
-        <lastmod>2024-05-14</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.8</priority>
-        <image:image>
-            <image:loc>https://www.techaffiliatepro.com/images/products/semrush.jpg</image:loc>
-            <image:title>SEMrush - Marketing Toolkit</image:title>
-            <image:caption>SEMrush affiliate deal - All-in-one marketing platform</image:caption>
-        </image:image>
-    </url>
-    
-    <!-- ==================== -->
-    <!-- BLOG ARTICLES        -->
-    <!-- ==================== -->
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/blog/ai-revolutionizing-affiliate-marketing</loc>
+        <loc>https://ali-faki.github.io/affliate/#newsletter</loc>
         <lastmod>2024-05-15</lastmod>
         <changefreq>monthly</changefreq>
         <priority>0.7</priority>
-        <news:news>
-            <news:publication>
-                <news:name>TechAffiliate Pro Blog</news:name>
-                <news:language>en</news:language>
-            </news:publication>
-            <news:publication_date>2024-05-15</news:publication_date>
-            <news:title>How AI is Revolutionizing Affiliate Marketing in 2024</news:title>
-            <news:keywords>AI, affiliate marketing, artificial intelligence, marketing automation</news:keywords>
-        </news:news>
     </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/blog/secure-web-hosting-guide</loc>
-        <lastmod>2024-05-14</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/blog/developer-tools-affiliate-programs</loc>
-        <lastmod>2024-05-13</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/blog/ai-content-tools-comparison</loc>
-        <lastmod>2024-05-10</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/blog/cloud-hosting-vs-shared-hosting</loc>
-        <lastmod>2024-05-08</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/blog/maximize-affiliate-earnings</loc>
-        <lastmod>2024-05-05</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <!-- ==================== -->
-    <!-- STATIC PAGES         -->
-    <!-- ==================== -->
-    
-    <!-- About Page -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/about</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <!-- Contact Page -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/contact</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <!-- Privacy Policy -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/privacy-policy</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
-    </url>
-    
-    <!-- Terms of Service -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/terms-of-service</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
-    </url>
-    
-    <!-- Affiliate Disclosure -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/affiliate-disclosure</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
-    </url>
-    
-    <!-- Security Policy -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/security-policy</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
-    </url>
-    
-    <!-- Cookie Policy -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/cookie-policy</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
-    </url>
-    
-    <!-- GDPR Compliance -->
-    <url>
-        <loc>https://www.techaffiliatepro.com/gdpr-compliance</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>yearly</changefreq>
-        <priority>0.3</priority>
-    </url>
-    
-    <!-- ==================== -->
-    <!-- CATEGORY PAGES       -->
-    <!-- ==================== -->
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/category/ai-tools</loc>
-        <lastmod>2024-05-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/category/web-hosting</loc>
-        <lastmod>2024-05-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/category/development-tools</loc>
-        <lastmod>2024-05-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/category/technology</loc>
-        <lastmod>2024-05-13</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/category/affiliate-tips</loc>
-        <lastmod>2024-05-12</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <!-- ==================== -->
-    <!-- DEALS & OFFERS       -->
-    <!-- ==================== -->
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/deals</loc>
-        <lastmod>2024-05-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.8</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/deals/ai-tools</loc>
-        <lastmod>2024-05-15</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/deals/hosting</loc>
-        <lastmod>2024-05-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/deals/development</loc>
-        <lastmod>2024-05-14</lastmod>
-        <changefreq>daily</changefreq>
-        <priority>0.7</priority>
-    </url>
-    
-    <!-- ==================== -->
-    <!-- RESOURCES            -->
-    <!-- ==================== -->
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/resources/affiliate-guide</loc>
-        <lastmod>2024-05-10</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/resources/tools-comparison</loc>
-        <lastmod>2024-05-08</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.6</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/resources/beginners-guide</loc>
-        <lastmod>2024-05-05</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/resources/faq</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.5</priority>
-    </url>
-    
-    <!-- ==================== -->
-    <!-- SEARCH & UTILITIES   -->
-    <!-- ==================== -->
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/search</loc>
-        <lastmod>2024-05-01</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
-    <url>
-        <loc>https://www.techaffiliatepro.com/sitemap</loc>
-        <lastmod>2024-05-15</lastmod>
-        <changefreq>weekly</changefreq>
-        <priority>0.4</priority>
-    </url>
-    
+
 </urlset>
